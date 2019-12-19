@@ -1,0 +1,55 @@
+{
+    "name": "MuseScore",
+    "description": "<p>MuseScore lets musicians play more music. Creating sheet music can easily be done using the free and open source MuseScore notation software, available for Windows, Mac OS and Linux. Join the MuseScore community and discover new sheet music. The site has social features such as embedding, commenting, annotating, statistics, groups and it comes with an open API for third party developers. Stop printing scores and start playing with the MuseScore mobile applications for iOS and Android.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/musescore-logo-whitebg-l.png",
+    "tags": [
+        "api provider",
+        "data provider",
+        "have api",
+        "music",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/musescore\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MuseScore",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/musescore-logo-whitebg-l.png",
+            "humanURL": "https:\/\/musescore.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/musescore-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/developers.musescore.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/musescore"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/musescore.com\/upgrade"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/musescore"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/musescore.org\/"
+        }
+    ]
+}
